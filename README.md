@@ -26,3 +26,5 @@ But the solution is there, I'll try again but first adding the modification with
 
 Looks like I'm ready to go. I'll commit this again and push this changes to the repo. Again I had to add the modifications before commiting and pushing with `git push origin master`
 
+Before pushing, I want to know what has changed and what form the commits which are going to take place: `git log` gives me the modifyed, added files and the commit messages. If I want to know specifically what changes, then `git log -p` is the command I need.
+
