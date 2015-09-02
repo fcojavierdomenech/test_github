@@ -24,17 +24,5 @@ But the solution is there, I'll try again but first adding the modification with
 
 		modified:   README.md
 
-Looks like I'm ready to go. I'll commit this again and push this changes to the repo, before all I'll check the status of the repo with `git status`.
-Which gives me this output:
-	On branch master
-	Your branch is up-to-date with 'origin/master'.
+Looks like I'm ready to go. I'll commit this again and push this changes to the repo. Again I had to add the modifications before commiting and pushing with `git push origin master`
 
-	Changes not staged for commit:
-	(use "git add <file>..." to update what will be committed)
-	(use "git checkout -- <file>..." to discard changes in working directory)
-
-	modified:   README.md
-
-	no changes added to commit (use "git add" and/or "git commit -a")
-
-Ok, now I'll save this edits with another commit and will push this to github.
