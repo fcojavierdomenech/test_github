@@ -28,4 +28,3 @@ Looks like I'm ready to go. I'll commit this again and push this changes to the 
 
 Before pushing, I want to know what has changed and what form the commits which are going to take place: `git log` gives me the modifyed, added files and the commit messages. If I want to know specifically what changes, then `git log -p` is the command I need.
 
-Ok, now I'll commit this line, push it and then will revert to the previous commit like this had never happened.
