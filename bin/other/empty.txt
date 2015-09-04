@@ -1,0 +1,1 @@
+some text, if not github doesn't store it and the folder structure containing it if empty.
